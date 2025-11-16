@@ -28,7 +28,7 @@
 <a href="mailto:xafsaxaaji936@gmail.com">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
 </a>
-<a href="https://github.com/hafsahajji" target="_blank">
+<a href="https://github.com/hafsahassan23" target="_blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" height="30" width="40" />
 </a>
 </p>
@@ -49,9 +49,9 @@
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hafsahajji&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hafsahajji&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsahajji&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hafsahassan23&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hafsahassan23&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsahassan23&theme=radical&hide_border=false&layout=compact)
 
 ---
 ---
@@ -60,7 +60,7 @@
 
 ### 🔝 Top Contributed Repos
 
-![Top Contributed Repos](https://github-profile-trophy.vercel.app/?username=hafsahajji&theme=radical&rank=-top1)
+![Top Contributed Repos](https://github-profile-trophy.vercel.app/?username=hafsahassan23&theme=radical&rank=-top1)
 
 ---
 
