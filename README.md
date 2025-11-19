@@ -7,7 +7,6 @@
 
 - 🎓 I’m currently studying at **Zamzam University of Science and Technology**, Mogadishu-Somalia  
 - 🌱 Learning and building projects with **HTML, CSS, JS, PHP, and MySQL**
-- 📫 Reach me at: **hafsahaji226@gmail.com**
 - 💬 Ask me about **Frontend & Backend Web Development**
 - 🌟 Dreaming to become a developer who helps and empowers others through tech
 - ⚡ Fun fact: *Consistency beats talent when talent doesn't work hard*
