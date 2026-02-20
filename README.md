@@ -3,16 +3,17 @@
 
 Software Engineer | Full Stack Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=yaasiinaxmed&style=flat&color=blue)
-([![committers.top badge](https://user-badge.committers.top/somalia/hafsahassan23.svg)](https://user-badge.committers.top/somalia/hafsahassan23)
-)
+![Profile Views](https://komarev.com/ghpvc/?username=hafsahassan23&style=flat&color=blue)
+([![committers.top badge](https://user-badge.committers.top/somalia/hafsahassan23.svg)](https://user-badge.committers.top/somalia/hafsahassan23))
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsahajji&label=Profile%20views&color=0e75b6&style=flat" alt="hafsahajji" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hafsahassan23&label=Profile%20views&color=0e75b6&style=flat" alt="hafsahassan23" />
+</p>
 
 - 🎓 I’m currently studying at **Zamzam University of Science and Technology**, Mogadishu-Somalia  
-- 🌱 Learning and building projects with **HTML, CSS, JS, PHP, and MySQL**
+- 🌱 Learning and building projects with **HTML, CSS, JS, PHP, MySQL, React, Node, Flutter, Dart, C#, ASP, Java**
 - 💬 Ask me about **Frontend & Backend Web Development**
 - 🌟 Dreaming to become a developer who helps and empowers others through tech
 - ⚡ Fun fact: *Consistency beats talent when talent doesn't work hard*
@@ -24,10 +25,10 @@ Software Engineer | Full Stack Developer
 <a href="https://www.linkedin.com/in/hafsa-hajji-769a122ab" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://www.facebook.com/xafsa.xaaji.xilkas" target="blank">
+<a href="https://www.facebook.com/xafsa.xaaji.xilkas" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/hafsa_haaji1" target="blank">
+<a href="https://www.instagram.com/hafsa_haaji1" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 <a href="mailto:xafsaxaaji936@gmail.com">
@@ -45,31 +46,28 @@ Software Engineer | Full Stack Developer
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" alt="ASP.NET" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
 </p>
-
-
 
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hafsahassan23&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hafsahassan23&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsahassan23&theme=radical&hide_border=false&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsahassan23&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=hafsahassan23&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsahassan23&theme=radical&hide_border=false&layout=compact)
 
 ---
----
 
-
-
-### 🔝 Top Contributed Repos
-
+### 🔝 Top Contributed Repos:
 ![Top Contributed Repos](https://github-profile-trophy.vercel.app/?username=hafsahassan23&theme=radical&rank=-top1)
 
 ---
-
 
 <!-- Proudly created by Hafsa Hassan Ahmed -->
