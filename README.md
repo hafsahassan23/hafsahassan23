@@ -59,7 +59,6 @@ Software Engineer | Full Stack Developer
 ---
 
 ### 📊 GitHub Stats:
-username=hafsahassan23&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=hafsahassan23&theme=radical&hide_border=false)
 
 
