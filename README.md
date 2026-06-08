@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hafsa Hassan Ahmed</h1>
 <h3 align="center">💻 Software Engineer | 🌍 Full Stack Developer | 🇸🇴 Mogadishu, Somalia</h3>
-[![committers.top badge](https://user-badge.committers.top/somalia/USERNAME.svg)](https://user-badge.committers.top/somalia/hafsahassan23)
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hafsahassan23&label=Profile%20views&color=0e75b6&style=flat" />
